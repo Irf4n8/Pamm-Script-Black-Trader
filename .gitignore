@@ -1,0 +1,20 @@
+# Environment credentials
+.env
+*.env.local
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs & temp files
+*.log
+.DS_Store
+
+# Node & UI test dependencies
+node_modules/
+ui_test_suite/node_modules/
+
+# Archives
+*.zip
+
