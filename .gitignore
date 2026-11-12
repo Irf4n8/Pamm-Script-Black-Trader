@@ -11,6 +11,9 @@ __pycache__/
 *.log
 .DS_Store
 
+# UI test suite (separate repository)
+ui_test_suite/
+
 # Node & UI test dependencies
 node_modules/
 ui_test_suite/node_modules/
